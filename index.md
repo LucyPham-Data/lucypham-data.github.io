@@ -2,34 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Data analytics personal projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Baby names in America](/sample_page)
+<img src="/projects/baby_names/baby_names_1.png?raw=true"/>
+<img src="/projects/baby_names/baby_names_2.png?raw=true"/>
+<img src="/projects/baby_names/baby_names_3.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Personal Blog Posts
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Statistics #1: Basic Statistics](https://medium.com/@lucypham.douglas23/basic-statistics-70c8929b6854)
+- [Statistic #2: Exploring Possibility in Statistics](https://medium.com/@lucypham.douglas23/statistic-2-exploring-possibility-in-statistics-fa3bc2821006)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
