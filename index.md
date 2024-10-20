@@ -5,10 +5,13 @@
 ### Data analytics personal projects
 
 [Baby names in America](/sample_page)
-<img src="/projects/baby_names/baby_names_1.png?raw=true" width="1000"/>
+<b>Screenshots</b>
+<img src="/projects/baby_names/baby_names_1.png?raw=true"/>
 <br>
+---
 <img src="/projects/baby_names/baby_names_2.png?raw=true"/>
 <br>
+---
 <img src="/projects/baby_names/baby_names_3.png?raw=true"/>
 
 ---
