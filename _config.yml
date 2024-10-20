@@ -1,7 +1,8 @@
 title: Lucy Pham # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi, I am Lucy Pham, a data analyst who is currently based in Vancouver, Canada.I create comprehensive reports and dashboards to present key insights from complex data. 
+  <p>Hi, I am Lucy Pham, a data analyst who is currently based in Vancouver, Canada.</p>
+  <p>I create comprehensive reports and dashboards to present key insights from complex data.</p>
   <br><br>
   <a href="https://www.linkedin.com/in/lucy-d-pham/">View My LinkedIn Profile</a> 
   <br><br>
